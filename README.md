@@ -25,7 +25,9 @@ A Flutter application that fetches and displays user data from a REST API with a
 
 | Student Sidebar | API Users List |
 |---|---|
-| ![Student Sidebar](screenshots/student_sidebar.png) | ![API Users List](screenshots/users_list.png) |
+| <img width="1919" height="1079" alt="Screenshot 2026-02-19 001407" src="https://github.com/user-attachments/assets/9c8cf57f-b1ee-4ccc-8f9f-f1fc34fc69f1" />
+ |<img width="1916" height="1074" alt="Screenshot 2026-02-19 001540" src="https://github.com/user-attachments/assets/43762839-c540-4f06-b7ee-8979b6ff9beb" />
+ |
 
 ## Getting Started
 
@@ -33,3 +35,4 @@ A Flutter application that fetches and displays user data from a REST API with a
 flutter pub get
 flutter run
 ```
+
